@@ -1,2 +1,3 @@
-# python1
-basic operations
+a=10
+b=30
+print(a+b)
